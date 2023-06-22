@@ -1,1 +1,39 @@
+Document:Online Hostel Booking Specification Document
+
+Title:Online Hostek Booking for Online Portal
+
+Team:
+	Direct Customer, Indirect Customer, Business Analyst
+	Customer Support and Assurance Team
+	System Analyst
+
+Objective(Purpose):
+	This document provides a defination of the website system for booking hotels 
+	and hotel units as well as events.These are according to geographical distribution
+	in the cities of India.
+Scope:
+	This system will provide scopes for the customer to add his booking, the admin 
+	for website to manage booking,the admin for hotel to confirm the booking.Customer 
+	will be able to review staying history.This System will able to show live spaces 
+	and view of hotels.
+
+Definations:
+	
+	OHB:Online Hotel Booking
+	CSAT:Customer Support and Assurance Team
+	Portal:Personalized Online Web Application
+	MIS:Management Information System
+	HMS:Hotel Management System
+	BI:Business Intelligence
+	Dashboard:Personalized information presented using BI techniques such grid, score card, graph.
+	The Online Hotel Management System is an online hotel administration system used for Reservation,
+	Availability and Occupancy Management, Check In/Check Out, viewing Images etc.
+	HMS has three end users:
+	Receptionist:Receptionist will have access to update or modifying booking details.
+	Manager:Manager will be able to view the financial reports and able to update the 
+		room information's such as any addition in rooms.
+	Customer:Customer is able to check room's availability. 
+	
+	
+
 
