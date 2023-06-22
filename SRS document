@@ -34,6 +34,50 @@ Definations:
 		room information's such as any addition in rooms.
 	Customer:Customer is able to check room's availability. 
 	
+Requirements:
+
+Functional Requirements:
+	Any annonymous User will be able to view different rooms avaialble for stay. Any User will be able select rooms to view from categories avaialble. 
+
+Registered Hotels will be able promote their rooms for stay by selecting rooms maintained by System.
+
+Hotelers will be able to update  room details which have been already selected for booking. Hotelers, receptionteam will be informed well in advaned about room avaibility   or no booking availiable for stay in rooms catlog.	rooms listing will be provided based their category, popularity, charges, likes, recommendations.
+
+Reception Team will be able to approve or reject request  raised by user for confirmation or rejection from rooms catalog.
+Reception Team will be to track and maintainavailibilty of rooms available for stay.
+Reception Team will be able to raise reqests for booking updation  from reception inventory.
+
+user will be able to  confirm or cancel booking from Bookings slot.
+OSS will maintain booking slot for each user to maintain records of room selected by user.
+
+user will be able view all rooms from explorere tab.
+Booking slot will present booking details, number of adults for stay selected by user with price and total. 
+user will be able to initiate room booking process system.
+
+Reception team will be able get details of bookings of a particular User. 
+Reception team  will be able to cancel , reject or approve 
+	 bookings been placed by user due to some policies of Business.
+
+BOD will be able to summary of booking has been confirmed, rejected from 
+Booking PRocessing of System. BOD will get Business insight by 
+observing  daily operations  with the of getting bookings information.
+
+
+User will be provided options for payment such as through internet banking  or  UPI  or Online payment option.
+ 	 Consumer will asked to submit their payment related information.Consumer will be redirected to payment gateway for secure payment transaction. On successful payment processing using payment gateway system will notify user about transaction and booking slot status.
+
+User will be able track booking status. User will be able track booking using unique booking id presented.
+
+
+ User will be able cancel and  get refund money based on any  respective reasons.
+	
+	 Hotel vendor will be ablt to  list all rooms booking to be done by their staff.
+	 Reception team will be able to monitor housekeeping done by their vendors.
+	 Reception team will be able to track room bookings for particular user.
+
+		
+	
+
 
 
 
