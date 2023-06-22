@@ -1,6 +1,6 @@
 *Non-Functional Requirements:
 	1. Security:- 
-Registered Customer will allowed to book a room.	
+Registered User will allowed to book a room.	
 		Each stakeholder will be to access system  through authentication process.What is your age?
 		System will provide access to the content , operations using Role based security (Authorization) (Permissions based on Role)
 		Using SSL in all transactions  which will be performed  by stakeholder. It would protect confidential information shared by system to stake holder of Shared by stakeholder to system.
@@ -23,7 +23,7 @@ During peak hours system will maintain same user experaince by managing load bal
 A Commercial database software will be used to maintain System data Persistence.
 A readymade Web Server will be installed to host online booking portal (Web Site) to management server capabilities.
 IT operations team will easily monitor and configure System using Adminstrative tools provided by Servers.
-Separate enviornment will be maintained for system for isolation in  production, testing, and development.
+Separate enviornment will be maintained for system for isolation in  sanitization, housekeeping, ambiance, and development.
 
 	5. Portablility:-
 			PDA: Portable Device Application
@@ -31,19 +31,19 @@ Separate enviornment will be maintained for system for isolation in  production,
 		  System can be deployed to single server, multi server, to any OS, Cloud (Azure or AWS or GCP).
 
 	6. Accessibility:-
-		Only registered customer will be able to place an order after authentication.
-		Sales team can reject or approve  bookings, booking requests  based on role provided.
+		Only registered user  will be able to place an order after authentication.
+		Reception team can reject or approve  bookings, booking requests  based on role provided.
 		BOD team will be able to view daily, weekly, monthly, annual businss Growth throgh customized dashboard.
-		Shoppers will be able to see their booking grap
+		hotelers will be able to see their booking grap
 
 	7. Durability:
-		  System will retain customer booking cart for 15 minutes  even though customer loose internet connection and join again.
-System will maintain wishlist for customer . 
-Customer  will be able to add products from wishlist  and add tobooking cart whenever needed.
+		  System will retain user  booking slot for 15 minutes  even though user loose internet connection and join again.
+System will maintainbooking update for user . 
+User  will be able to select rooms from wishlist  and add to booking slot whenever needed.
 		  System will implement backup and recovery for retaining stake holders data, bussiness operation data and business data over time.
 
 	8.  Efficiency:
-		Maximum number of users  will place order, view products  with same response time.
+		Maximum number of users  will confirmed booking, view rooms  with same response time.
 		System will be able to manage all transactions with isolation.
 
 	9. Modularity:
