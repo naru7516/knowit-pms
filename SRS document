@@ -77,7 +77,69 @@ User will be able track booking status. User will be able track booking using un
 
 		
 	
+*Non-Functional Requirements:
+	1. Security:- 
+Registered User will allowed to book a room.	
+		Each stakeholder will be to access system  through authentication process.What is your age?
+		System will provide access to the content , operations using Role based security (Authorization) (Permissions based on Role)
+		Using SSL in all transactions  which will be performed  by stakeholder. It would protect confidential information shared by system to stake holder of Shared by stakeholder to system.
+		System  will internally maintain secure communiction channel between Servers ( Web Servers, App Servers, databse Server)
+		Sensitive data will be always encrypted across communcation.
+		Use proper firewall to protect servers from out side fishing, velnerable attacks.
 
+	2. Realiability:-
+The system will backup business data on regular basis and recover in short time duration to keep system operational.
+Continous updates are matained , continous Adminstration is done to keep system operational.
+During peak hours system will maintain same user experaince by managing load balacning.
+
+	3. Availability :-
+		Checkin:- 12:00PM onwards.
+		Checkout:- 11:00 AM nextday
+		 uptime:   24* 7  available
+		 99.999%
+
+	4. Maintainability:-
+A Commercial database software will be used to maintain System data Persistence.
+A readymade Web Server will be installed to host online booking portal (Web Site) to management server capabilities.
+IT operations team will easily monitor and configure System using Adminstrative tools provided by Servers.
+Separate enviornment will be maintained for system for isolation in  sanitization, housekeeping, ambiance, and development.
+
+	5. Portablility:-
+			PDA: Portable Device Application
+		  System will provide portable User Interface ( HTML, CSS, JS) through  users will be able to access online booking portal.
+		  System can be deployed to single server, multi server, to any OS, Cloud (Azure or AWS or GCP).
+
+	6. Accessibility:-
+		Only registered user  will be able to place an order after authentication.
+		Reception team can reject or approve  bookings, booking requests  based on role provided.
+		BOD team will be able to view daily, weekly, monthly, annual businss Growth throgh customized dashboard.
+		hotelers will be able to see their booking grap
+
+	7. Durability:
+		  System will retain user  booking slot for 15 minutes  even though user loose internet connection and join again.
+System will maintainbooking update for user . 
+User  will be able to select rooms from wishlist  and add to booking slot whenever needed.
+		  System will implement backup and recovery for retaining stake holders data, bussiness operation data and business data over time.
+
+	8.  Efficiency:
+		Maximum number of users  will confirmed booking, view rooms  with same response time.
+		System will be able to manage all transactions with isolation.
+
+	9. Modularity:
+		 System will designed and developed using reusable, independent or dependent business senarios in the form of modules.
+These modules will be loosely coupled and highly cohesive.
+System will contain CRM , Inventory , Booking cart, Booking processing, payment processing, Booking Confirmation, membership and Roles managment modules.
+	
+	10. Scalability:
+		System will be able  to  provide  consistent user exeprience to stake holder as well as vistors irrespective of load.
+
+	11. Safety:
+online booking portal will be secure from malicious attack, fishing.
+		online booking portal functionalilites are protected from outside with prper firewall configuration.
+		online booking portal will be always kept updated with latest anit virus software.
+		Bussiness data will be backed up periodically to ensure safty of data using increamental back up strategy.
+		Role based security will be applied for Application data and operations accessibility.
+				
 
 
 
